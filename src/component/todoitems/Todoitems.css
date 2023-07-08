@@ -1,0 +1,28 @@
+.listitems {
+    width: 300px; /* Adjust the width as needed */
+  }
+  
+  .listitems > div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f7f7f7;
+  }
+  
+  .listitems > div span {
+    flex: 1;
+    margin-right: 10px;
+  }
+  
+  .listitems > div span:first-child {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .listitems > div span:last-child {
+    cursor: pointer;
+    color: red;
+  }
+  
