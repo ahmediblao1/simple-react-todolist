@@ -10,7 +10,7 @@ The Simple React Todo List is a lightweight and user-friendly todo list applicat
 
 ## Getting Started
 
-### Installation
+## Installation
 
 1. Clone the repository:
 2. run npm run dev
